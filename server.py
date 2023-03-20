@@ -1,7 +1,7 @@
 import socket
 import threading
 
-host = socket.gethostname()
+host = ''
 port = 3000
 
 server = socket.socket()
